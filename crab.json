@@ -1,12 +1,12 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/atomicptr/crab/releases/download/v1.2.0/crab_1.2.0_Windows_x86_64.tar.gz",
+            "url": "https://github.com/atomicptr/crab/releases/download/v1.3.0/crab_1.3.0_Windows_x86_64.tar.gz",
             "bin": [
                 "crab.exe"
             ],
-            "hash": "199b10037ed612808fcc97a565faffb676e8ba20609b831d40ebe63ee8034b81"
+            "hash": "13135d5daa90ca1e9523407c999036722180647db25f8160eba40e3bc1470f06"
         }
     },
     "homepage": "https://github.com/atomicptr/crab",

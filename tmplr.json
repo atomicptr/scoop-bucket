@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/atomicptr/tmplr/releases/download/v0.1.0/tmplr_0.1.0_windows_amd64.tar.gz",
+            "url": "https://github.com/atomicptr/tmplr/releases/download/v0.1.1/tmplr_0.1.1_windows_amd64.tar.gz",
             "bin": [
                 "tmplr.exe"
             ],
-            "hash": "30ce89e9237d28a27550dd86f59e788d82e19036a2e07d03ab3cb7c7bd6c5282"
+            "hash": "058f9fca3b7352984955eeaf42e4988d7f5a174c8a5e63bca703c63d80c8c4c6"
         }
     },
     "homepage": "https://github.com/atomicptr/tmplr",

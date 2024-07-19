@@ -1,15 +1,15 @@
 {
-    "version": "0.1.1",
+    "version": "0.1.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/atomicptr/tmplr/releases/download/v0.1.1/tmplr_0.1.1_windows_amd64.tar.gz",
+            "url": "https://github.com/atomicptr/tmplr/releases/download/v0.1.2/tmplr_0.1.2_windows_amd64.tar.gz",
             "bin": [
                 "tmplr.exe"
             ],
-            "hash": "058f9fca3b7352984955eeaf42e4988d7f5a174c8a5e63bca703c63d80c8c4c6"
+            "hash": "6e199987f49e124b3a981962c0661e72714204d20a1e832ef40fbf657d2a75a1"
         }
     },
     "homepage": "https://github.com/atomicptr/tmplr",
-    "license": "GPL-3.0-later",
+    "license": "GPL-3.0-or-later",
     "description": "Quickly create new files from templates\n"
 }
